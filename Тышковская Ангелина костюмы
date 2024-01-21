@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta name="viewport" content="width=device-width">
+    <title></title>
+    <style>
+      body {
+        background-color: rgb(46, 71, 92);
+      }
+    </style>
+<body>
+  <h1 style="text-align:center;">Магазин классической одежды</h1>
+  </body>
+  <nav role="navigation">
+    <div id="menuToggle">
+      <!-- A fake / hidden checkbox is used as click reciever,
+      so you can use the :checked  selector on it. -->
+      <input type="checkbox" />
+      <!-- Some spans to act as a hamburfger. 
+      They are acting like a real hamburger,
+    not that McDonalds stuff. -->
+    <span></span>
+    <span></span>
+    <span></span>
+    <!-- Too bad the menu has tj be inside of the button but hey, it is pure CSS magic.-->
+    <ul id="menu">
+      <a href="#"><il>Магазин классической одежды</il></a>
+      <a href="#"><il>О нашем магазине</il></a>
+      <a href="#"><il>Что вы найдёте у нас</il></a>
+      <a href="#"><il>Каталог</il></a>
+      </ul>
+    </div>
+  </nav>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./styles/style.css">
+  <div class="w3-content" style="max-width:700px">
+    <style>
+      #myHeader {
+        background-color: rgb(47, 64, 71);
+        color: black;
+        padding: 40px; 
+        text-align: center;
+      }
+    </style>
+    </head>
+    <body>
+    <h1 style="text-align:center;">О нашем магазине</h1>
+    </body>
+    <img src="https://perfection-shoes.ru/wp-content/uploads/1/a/d/1ad6cd68c2d937268ff115f43999fd2e.jpeg">
+    <p>
+    <h3>
+    Наш магазин - это уютный оазис стиля и утонченности, где вы найдете лучшие классические наряды для подчеркивания своей индивидуальности и элегантности. Мы предлагаем вам великолепный ассортимент классической одежды для мужчин и женщин, подчеркивающей вашу непревзойденную манеру и вкус.Наш магазин это место где классика и стиль сочетаются, чтобы помочь вам выглядеть безупречно в любой ситуации. Посетите нас сегодня и обновите свой гардероб с нами!
+    </h3>
+    <h1>
+      Что вы найдёте у нас:
+    </h1>
+    <h2>
+      Женская одежда:
+    </h2>
+     От изысканных платьев до классических костюмов, у нас есть наряды для каждого случая. Выбирайте из нашего разнообразия стилей, тканей и расцветок.
+    
+    <h2>
+      Мужская одежда:
+    </h2>
+      Наш магазин предлагает широкий выбор классических костюмов, рубашек, галстуков и аксессуаров, чтобы подчеркнуть вашу презентабельность и стиль.
+    <h2>
+      Аксессуары:
+    </h2>
+      Комплектуйте ваш образ изысканными аксессуарами, включая сумки, обувь, украшения и шляпы, чтобы создать завершенный вид.
+    <h2>
+      Премиальное качество:
+    </h2>
+       Мы гордимся тем, что предлагаем только высококачественные изделия от известных мировых брендов.
+    <h2>
+      Индивидуальное обслуживание:
+    </h2>
+       Наши опытные консультанты готовы помочь вам выбрать наилучший наряд, соответствующий вашим потребностям и предпочтениям.
+    </p>
+   
+
+<p><strong>Часы работы:</strong> ежедневно с 6 утра до 5 вечера.</p>
+    <p><strong>Адрес:</strong> Улица Ленина 15 корпус 2, Москва</p>
+  </div>
+</div>
+    <meta property="og:title" content="Заголовок страницы в OG">
+    <meta property="og:description" content="Описание страницы в OG">
+    <meta property="og:image" content="https://example.com/image.jpg">
+    <meta property="og:url" content="https://example.com/">
+  </head>
+  <body>
+    <header>
+      <h1>Каталог</h1>
+    </header>
+    <main>
+      <article>
+        <section>
+          <h2>для мужчин</h2>
+          <img src="https://shopogolllik.ru/wp-content/uploads/c/0/2/c0233c9773d748edf3de01000c8ac2ad.jpeg">
+          <p>В нашем ассортименте представленны костюмные комплекты на любой вкус и подходят для всех типов фигур</p>
+        </section>
+        <section>
+          <h2>Для женщин</h2>
+          <img src="https://i.pinimg.com/originals/6f/3e/5e/6f3e5e2636261e082b4f3d78d510a1e7.jpg">
+          <p> У нас в наличии множество вариантов и для женщин, кажая посетительница сможет найти костюм по душе.</p>
+        </section>
+        <section>
+          <h2>Аксессуары</h2>
+          <img src="https://ae04.alicdn.com/kf/S1abcef2bbf8f4008b773523b22b6d8944.jpg">
+          <p>Аксессуары являются оличным дополнением любого образа, они помогут подчеркнуть вашу индивидуальность. </p>
+        </section>
+      </article>
+    </main>
+    <footer>
+      <p>при возникновении вопросов звоните на номер 86542483615</p>
+    </footer>
+  </body>
+</html
